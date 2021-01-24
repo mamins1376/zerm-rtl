@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mamins1376.github.io/zerm-rtl/sitemap.xml
